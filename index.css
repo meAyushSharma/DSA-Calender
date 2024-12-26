@@ -1,3 +1,6 @@
+*::selection {
+  background-color: #959590a3;
+}
 
 body {
     font-family: 'Poppins', sans-serif;
